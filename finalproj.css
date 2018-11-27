@@ -34,7 +34,7 @@ h1 {
   padding: 0.2em; 
 }
 nav {
-  background-color: #FFFF00;
+  background-color: #FFA500;
   float: none;
   font-weight: bold;
   padding: 5px;
@@ -156,7 +156,7 @@ clear: left;
   font-family: Verdana, Arial, sans-serif;
   font-size: 3em;
   padding: 0.2em;
-  text-shadow: 1px 1px 1px #$d0000;
+  text-shadow: 1px 1px 1px #8B0000;
 }
  h3 {
    line-height: 36px;
