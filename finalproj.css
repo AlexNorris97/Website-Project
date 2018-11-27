@@ -20,7 +20,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   text-align: center;
-  background-color: #000066;
+  background-color: #800000;
   padding: 5px;
 }
 body {
@@ -36,6 +36,7 @@ h1 {
   
 }
 nav {
+  backgroun-color: #FFFF00;
   float: none;
   font-weight: bold;
   padding: 5px;
@@ -154,7 +155,7 @@ clear: left;
   footer {
   font-size: .70em;
   font-style: italic;
-  background-color: #AEC3E3;
+  background-color: #FF4500;
   padding: 1em;
   margin-left: 180px;
 }
