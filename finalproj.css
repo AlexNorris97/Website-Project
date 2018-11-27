@@ -1,5 +1,7 @@
 
-
+p{
+  text-indent: 1em;
+}
 table{
   margin: 1em;
   border: 2px solid #000066;
