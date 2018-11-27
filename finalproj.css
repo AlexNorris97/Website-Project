@@ -26,7 +26,7 @@ header {
 }
 body {
   background-image: url("trip.jpeg");
-  color: #003366;
+  color: #000000;
   font-family: Verdana, Arial, sans-serif;
 }
 h1 {
@@ -161,7 +161,7 @@ clear: left;
   font-family: Verdana, Arial, sans-serif;
   font-size: 3em;
   padding: 0.2em;
-  text-shadow: 1px 1px 1px #A9A9A9;
+  text-shadow: 1px 1px 1px #$d0000;
 }
  h3 {
    line-height: 36px;
