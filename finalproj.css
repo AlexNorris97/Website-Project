@@ -1,100 +1,3 @@
-@media only screen and (max-width: 768px) {
-  #mobile { display: inline;}
-  #desktop {display: none;}
-  
-  header{
-    background-image: url("lilfish.gif");
-  }
-  h1 {
-    font-size: 0.8em;
-    line-height: 300%;
-  }
-  nav{
-   float: none;
-  
-  }
-  nav li {
-    display: inline;
-  }
-  nav a {
-    display: block;
-    padding: 0.2em;
-    font-size: 1em;
-  }
-  nav ul {
-    text-align: center;
-  }
-  .category {
-    text-shadow: none;
-  }
-  h3 {
-   display: none;
-  }
-  hr { display: inline;
-       width: 768px;}
-}
-
-
-@media only screen and (max-width: 1024px) {
-    #mobile { display: inline;}
-  #desktop {display: none;}
-  hr{
-    display: none;
-  }
-  h3{
-   display: none;
-  }
-  body {
-    margin: 0;
-    margin-left: 0;
-    padding: 0;
-    background-color: #FFFFFF;
-    background-image: none;
-  }
-  #wrapper{
-    width: auto;
-    min-width: 0;
-    margin: 0;
-  }
-  h1 {
-    margin: 0;
-    font-size: 1em;
-    line-height: 300%;
-  }
-  nav {
-    text-align: center;
-    float: left;
-    padding: 0;
-    width: auto;
-    margin-left: 90px;
-    
-  }
-  nav li {
-    display: inline-block;
-  }
-  nav a {
-    padding: 1em;
-    font-size: 1.2em;
-  }
-  nav ul {
-    text-align: center;
-    padding: 0;
-    margin: 0;
-  }
-  main{
-    font-size: 90%;
-    margin: 0;
-    margin-left: 0;
-  }
-  footer {
-    margin: 0;
-    margin-left: 0;
-  }
-  header {
-  background-image: url("lilfish.gif");
-}
-}
-
 
 
 table{
@@ -122,7 +25,7 @@ header {
 }
 body {
   background-color: #5280C5;
-  background-image: url("gradientblue.jpg");
+  background-image: url("trip.jpeg");
   color: #003366;
   font-family: Verdana, Arial, sans-serif;
 }
@@ -215,7 +118,7 @@ display: block;
 @media only screen and (min-width: 1025px) {
   header {
   line-height: 36px;
-  background-image: url("fishcreeklogo.gif");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: center;
   text-align: center;
