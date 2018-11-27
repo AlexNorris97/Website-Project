@@ -159,12 +159,11 @@ clear: left;
   margin-left: 180px;
 }
   h1 {
-color: #AEC3E3;
-  line-height: 100%;
+  line-height: 0;
   font-family: Verdana, Arial, sans-serif;
   font-size: 3em;
   padding: 0.2em;
-  text-shadow: 1px 1px 1px #CCCCCC;
+  text-shadow: 1px 1px 1px #A9A9A9;
 }
  h3 {
    line-height: 36px;
