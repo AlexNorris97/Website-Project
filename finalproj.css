@@ -79,9 +79,10 @@ footer {
   background-color: #F0F0F0;
 }
 main{
+  color: #FFFFFF;
   padding-left: 2em;
   padding-right: 2em;
-  background-color: #FFFFFF;
+  background-color: #000000;
   border: 1px;
   border-style: solid;
   border-color: #AEC3E3;
